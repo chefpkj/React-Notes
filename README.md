@@ -41,7 +41,6 @@
  * Babel
  * Adding script in package.json
  * Removing console.log (adding package babel-plugin-transform-remove-console)
- * Reconciliation
  * .render()
  * List & Keys
  * JSX (JavaScript XML)
@@ -59,7 +58,30 @@
  * Spread operator
  * .map(()=>{})
  * Virtual DOM
+ * Reconciliation
  * Diff Algorithm (React Fiber)
+ 
+ ## 5. Let's get Hooked! 
+ * React file structure (suggestion)
+ * export
+   * default export
+   * named export
+ * Config/Constant file
+ * One-way data binding
+ * Hooks
+ * defination of state
+ * useState Hook
+ * Two way data binding
+ * .filter and .includes (Building search functionality of my app)
+ * Monolith architecture and Microservice architecture (Microservices)
+ * fetch api
+ * useEffect Hook
+ * Shimmer UI
+ * Conditional rendering
+ * Js expression and Js statement
+ 
+ 
+ 
 
  
 
