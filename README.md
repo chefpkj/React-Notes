@@ -80,6 +80,22 @@
  * Conditional rendering
  * Js expression and Js statement
  
+  ## 6. Finding the path 
+ * Various ways to import image in react app
+ * React Router
+   * installation
+   * createBrowserRouter
+   * RouterProvider
+   * errorElement
+   * useRouterError Hook by react-router-dom
+ * Single Page Application (spa)
+ * Two types of routing 
+   * Server-side routing
+   * Client-side routing 
+ * Link 
+ * Outlet
+ * useParams Hook by react-router-dom
+ 
  
  
 
