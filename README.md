@@ -96,6 +96,30 @@
  * Outlet
  * useParams Hook by react-router-dom
  
+  ## 7. Let's get classy 
+ * childrens of children in react-router-dom
+ * Class-base component 
+ * props in class-based component
+ * state in class-based component 
+ * Constructor()
+ * setState function (for mutating state variables)
+ * React life-cycle
+   * Mounting phase
+   * Updating phase 
+   * Unmounting phase
+ * Best place to make API call (componentDidMount)
+ * Core basics of class-based component (series in which func. is called)
+ * Rendering phases of react 
+   * Render phase 
+   * Commit phase 
+ * componentDidUpdate() (how to use it like dependecies array in useEffect)
+ * componentWillUnmount()
+ 
+ 
+ 
+ 
+ 
+ 
  
  
 
